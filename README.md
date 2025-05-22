@@ -4,7 +4,7 @@ I'm a full stack developer passionate about Laravel, Vue and Clean Code. I const
 
 - Computer Engineering Student
 - Full Stack Developer at Sysvale
-- 4+ years of experience in development
+- 6+ years of experience in development
 - With strong experience in Laravel/Vue
 
 ## Tech
